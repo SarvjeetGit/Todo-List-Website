@@ -14,13 +14,20 @@
 ***
 ## Run app on your local machine:
 - Clone the repository 
-
-    ```git clone https://github.com/SarvjeetGit/Todo-List-Website.git```
+    ```
+    git clone https://github.com/SarvjeetGit/Todo-List-Website.git
+    ```
 - Open the project in your favorite editor 
-    ```cd Todo-List-Website/ ```
+    ```
+    cd Todo-List-Website/ 
+    ```
 - Install the dependencies
-    ```npm i ```
+    ```
+    npm i
+     ```
 - Run the project in your local machine
-    ```npm start```
+    ```
+    npm start
+    ```
 ***
 Do fork and star ⭐ the repo if you find it appreciable. For any queries and suggestions, Conatct me at my mailing address.
